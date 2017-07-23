@@ -1,3 +1,7 @@
+/**
+ * JavaScript Functionality
+ */
+
 let filterInput = document.getElementById('filterInput');
 
 filterInput.addEventListener('keyup', filterNames );
